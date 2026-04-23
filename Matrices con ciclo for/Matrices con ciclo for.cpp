@@ -27,5 +27,5 @@ int main() {				//Esta es la funcion principal, es donde inicia el programa
 		cout << endl; // Salto de línea al terminar cada fila
 	}
 
-	return 0; // Fin del programa
+	return 0; // Marca el final del programa
 }
